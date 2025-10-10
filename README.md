@@ -27,13 +27,7 @@ Sou estudante do curso Técnico em Desenvolvimento de Sistemas pela Etec Antonio
 
 </div>
  
- 
-## 📈 Minhas Estatísticas do GitHub
- 
-![Nishikito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishikito&show_icons=true&theme=radi…
- 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishikito&layout=compact&…
- 
+
 ---
  
 ## 📫 Como me encontrar
