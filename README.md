@@ -1,40 +1,65 @@
-# Olá, eu sou Nishikito! 👋
- 
-Sou estudante do curso Técnico em Desenvolvimento de Sistemas pela Etec Antonio Devisate, estou me aprofundando no mundo do desenvolvimento full stack, programando tanto no frontend quanto no backend.  
- 
----
- 
-## 🚀 Sobre mim
- 
-- 🎓 Estudante técnico em Desenvolvimento de Sistemas  
-- 🛠️ Técnico em Hardware (manutenção de computadores e celulares)  
-- 💻 Full Stack Developer: frontend e backend  
-- 🌱 Sempre aprendendo novas tecnologias e buscando evoluir como desenvolvedor  
-- 🤝 Membro do projeto DevMentors Unimar  
- 
----
- 
-## 🛠️ Tecnologias & Linguagens
- 
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+<!-- Banner ou saudação -->
+<h1 align="center">👋 Olá, eu sou o <strong>Hugo Nishikito Alexandre Soares</strong></h1>
 
-</div>
- 
+<p align="center">
+  💻 Aluno do <strong>2º ano do Ensino Médio com técnico em Desenvolvimento de Sistemas</strong><br>
+  📍 Estudo na <strong>ETEC Antônio Devisate</strong><br>
+  🚀 Participante do projeto <strong>DevMenthors</strong> da <strong>Unimar</strong><br>
+</p>
 
 ---
- 
-## 📫 Como me encontrar
- 
-- Etec Antonio Devisate - Mtec PI Desenvolvimento de Sistemas  
-- Projeto DevMentors Unimar  
- 
+
+## 🧠 Sobre mim
+
+Sou apaixonado por tecnologia, sempre buscando aprender mais sobre programação e criar projetos que façam a diferença.  
+Atualmente estou desenvolvendo minhas habilidades em **desenvolvimento web** e **aplicações Java**, e adoro transformar ideias em código. ⚡
+
 ---
- 
-Obrigado pela visita! Vamos codar juntos! 🚀
+
+## 🛠️ Tecnologias que domino
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,java,github" />
+</p>
+
+> 💡 Tenho experiência com **HTML**, **CSS**, **PHP**, **SQL**, e **Java** — além de versionamento com **Git & GitHub**.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nishikito&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishikito&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Ranking dos meus commits
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishikito&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Objetivos
+
+- 📚 Continuar evoluindo como desenvolvedor full-stack  
+- 💼 Trabalhar com tecnologia e inovação  
+- 🌍 Contribuir com projetos open source  
+- 💬 Compartilhar conhecimento e aprender com a comunidade  
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="center">
+  <a href="https://github.com/Nishikito">
+    <img src="https://img.shields.io/badge/GitHub-Nishikito-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Feito com 💙 e muita curiosidade por <strong>@Nishikito</strong> ✨</p>
