@@ -62,4 +62,4 @@ Atualmente estou desenvolvendo minhas habilidades em **desenvolvimento web** e *
 
 ---
 
-<p align="center">✨ Feito com 💙 e muita curiosidade por <strong>@Nishikito</strong> ✨</p>
+
