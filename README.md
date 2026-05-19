@@ -2,27 +2,41 @@
 <h1 align="center">👋 Olá, eu sou o <strong>Hugo Nishikito Alexandre Soares</strong></h1>
 
 <p align="center">
-  💻 Aluno do <strong>2º ano do Ensino Médio com técnico em Desenvolvimento de Sistemas</strong><br>
+  🎓 Aluno do <strong>3º ano do Ensino Médio com Técnico em Desenvolvimento de Sistemas</strong><br>
   📍 Estudo na <strong>ETEC Antônio Devisate</strong><br>
   🚀 Participante do projeto <strong>DevMenthors</strong> da <strong>Unimar</strong><br>
+  🎮 Futuro desenvolvedor de jogos
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou apaixonado por tecnologia, sempre buscando aprender mais sobre programação e criar projetos que façam a diferença.  
-Atualmente estou desenvolvendo minhas habilidades em **desenvolvimento web** e **aplicações Java**, e adoro transformar ideias em código. ⚡
+Sou apaixonado por tecnologia e desenvolvimento de software, principalmente pela área de jogos. Atualmente busco evoluir minhas habilidades em programação e transformar ideias em projetos reais.
+
+Hoje estou estudando desenvolvimento web e desenvolvimento de aplicações, enquanto também aprofundo meus conhecimentos na criação de jogos — inclusive desenvolvendo meu **TCC baseado em um jogo**. ⚡
 
 ---
 
-## 🛠️ Tecnologias que domino
+## 🛠️ Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,java,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,flutter,java,github" />
 </p>
 
-> 💡 Tenho experiência com **HTML**, **CSS**, **PHP**, **SQL**, e **Java** — além de versionamento com **Git & GitHub**.
+> 📚 Conhecimentos em **HTML**, **CSS**, **MySQL**, **Flutter**, **Java** e versionamento com **Git & GitHub**.  
+> 🚀 Atualmente expandindo meus estudos e aprendendo mais a cada projeto.
+
+---
+
+## 🎮 Área de interesse
+
+Tenho grande interesse em:
+
+- 🎮 Desenvolvimento de jogos
+- 🌐 Desenvolvimento web
+- 📱 Aplicações mobile
+- 💻 Programação e lógica
 
 ---
 
@@ -35,7 +49,7 @@ Atualmente estou desenvolvendo minhas habilidades em **desenvolvimento web** e *
 
 ---
 
-## 🏆 Ranking dos meus commits
+## 🏆 Atividade no GitHub
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishikito&theme=tokyonight" />
@@ -45,10 +59,10 @@ Atualmente estou desenvolvendo minhas habilidades em **desenvolvimento web** e *
 
 ## 🎯 Objetivos
 
-- 📚 Continuar evoluindo como desenvolvedor full-stack  
-- 💼 Trabalhar com tecnologia e inovação  
-- 🌍 Contribuir com projetos open source  
-- 💬 Compartilhar conhecimento e aprender com a comunidade  
+- 🎮 Trabalhar com desenvolvimento de jogos
+- 📚 Evoluir minhas habilidades como programador
+- 🌍 Participar de projetos e aprender com a comunidade
+- 💡 Transformar ideias em experiências interativas
 
 ---
 
@@ -61,5 +75,3 @@ Atualmente estou desenvolvendo minhas habilidades em **desenvolvimento web** e *
 </p>
 
 ---
-
-
