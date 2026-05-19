@@ -43,10 +43,26 @@ Tenho grande interesse em:
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nishikito&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishikito&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"
+  />
 </p>
 
+---
+
+## 🏆 Atividade no GitHub
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=tokyonight"
+  />
+</p>
 ---
 
 ## 🏆 Atividade no GitHub
