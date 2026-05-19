@@ -40,17 +40,11 @@ Tenho grande interesse em:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🔥 Sequência de contribuições
 
 <p align="center">
-  <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
-
-  <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"
+  <img
+    src="https://streak-stats.demolab.com?user=Nishikito&theme=tokyonight&hide_border=true"
   />
 </p>
 
@@ -59,19 +53,10 @@ Tenho grande interesse em:
 ## 🏆 Atividade no GitHub
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=tokyonight"
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishikito&theme=tokyonight"
   />
 </p>
----
-
-## 🏆 Atividade no GitHub
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishikito&theme=tokyonight" />
-</p>
-
----
 
 ## 🎯 Objetivos
 
